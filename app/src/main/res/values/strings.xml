@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Planner</string>
+    <string name="password_hint">Input Password</string>
+    <string name="user_name_hint">User name</string>
+</resources>

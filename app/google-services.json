@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142366424268",
+    "project_id": "daily-planner-cfc19",
+    "storage_bucket": "daily-planner-cfc19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142366424268:android:ecfef8b11d7dd89c03d669",
+        "android_client_info": {
+          "package_name": "com.example.dailyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142366424268-2ma55por6qb3pim5bnt5ackus70klg0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RiBun9OLdbxAbETn7f76biORSdE1Bss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142366424268-2ma55por6qb3pim5bnt5ackus70klg0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
